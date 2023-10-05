@@ -9,7 +9,9 @@ A Coffee Machine simulator
 ✅ I learned:
 
     🟢 How to call for a Key in a dictionary  ✔️
-    🟢 That the parameter is created when the function is being called. And, when I I formulating the funtion, I can change the name of the parameter. e.g.:
+    🟢 That the parameter is created when the function is being called. And, when I I formulating the funtion, I can change the name of the parameter. ✔️
+        e.g.: 
+    
     def make_coffee(drink_name, order_ingredients): # >>>>>>>>>>>>>drink_name<<<<<<<<<<<<<<<< 👈
         """Deduct the required ingredients from resources"""
         for item in order_ingredients:
@@ -21,8 +23,8 @@ A Coffee Machine simulator
     
     make_coffee(user_coffee_choice, drink["ingredients"]) # >>>>>>>>>>>>>drink["ingredients"]<<<<<<<<<<<<<<<< 👈
 
-    🟢 Creating a new parameter for a function in order to compare values in a dictionary with an input from the user.
-    🟢 To use a Global Variable
+    🟢 Creating a new parameter for a function in order to compare values in a dictionary with an input from the user. ✔️
+    🟢 To use a Global Variable ✔️
 
 
 
